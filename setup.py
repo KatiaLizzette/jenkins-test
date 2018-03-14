@@ -6,7 +6,7 @@ test_require =[
 
 setup(
     name='sample',
-    version='1.3.0',
+    version='0.9.8',
     description='A sample Python project',
     install_requires=['peppercorn'],
     tests_require=test_require,
